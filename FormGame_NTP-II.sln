@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormGame_NTP-II", "FormGame_NTP-II\FormGame_NTP-II.csproj", "{D8385D99-A20A-4FAC-A0BD-B5BA259847EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8385D99-A20A-4FAC-A0BD-B5BA259847EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8385D99-A20A-4FAC-A0BD-B5BA259847EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8385D99-A20A-4FAC-A0BD-B5BA259847EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8385D99-A20A-4FAC-A0BD-B5BA259847EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2612F3DA-4F49-41F8-8526-E986D878E42A}
+	EndGlobalSection
+EndGlobal
